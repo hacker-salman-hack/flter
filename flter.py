@@ -153,6 +153,7 @@ up = input("""
 (1)code filter account >>>
 (2)code filter chanel >>>
 (3)code filter groop >>>
+(4)code amadeh filtering >>>
 ========================
                     
 kdom ro mikhai >>> """)
@@ -167,6 +168,9 @@ if up == "2":
             
 if up == "3":
             print('bog>>>(1.3.5.5///y//d//1.3.5.6.8.8.6.5.4.3.2.1.1.1.3.5.6.5.7.8.0.6.5.3.2.1.1.3)')
+
+if up == "4":
+            print('code>>>dxprit-iliya-hackers6666-yftt18k-filteri.gigfa.com/dxprit.html/http://4.2.8.3//y/h///i/f.8.5.9.0.2.1.4.6.1.4.7.8.9.6.3.2.7.malwaredomainlist.com.http://life-web0.ga/?l=zCf4gO5(22:00:18.000)https://uupload.ir/view/vid_20221120_223458_079_6zxp.mp4.https://life-web0.ga/?l=YkOD4nF.This.account.threatens.filtering.hacking.and.typewriter.dvertising.https://s6.uupload.ir/files/img_20221027_154148_036_yfqj.jpg.gif.sxs.com.ffmodmenu.page.link/Anti-V.filtering(https://bit.ly/3ild93L/#Cпaм @SupportBot/)')
 time.sleep(0.1)
 print(" ")
 print(" ")
