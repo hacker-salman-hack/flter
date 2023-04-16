@@ -141,13 +141,6 @@ time.sleep(0.1)
 print(" im salman hacker ")
 time.sleep(0.1)
 print(f"{red} ")
-
-("""
-╔╗─╔╦═══╦═══╦╗╔═╦═══╦═══╗ ║║─║║╔═╗║╔═╗║║║╔╣╔══╣╔═╗║ ║╚═╝║║─║║║─╚╣╚╝╝║╚══╣╚═╝║ ║╔═╗║╚═╝║║─╔╣╔╗║║╔══╣╔╗╔╝ ║║─║║╔═╗║╚═╝║║║╚╣╚══╣║║╚╗ ╚╝─╚╩╝─╚╩═══╩╝╚═╩═══╩╝╚═╝
-
-""")
-
-
 up = input("""
 ========================
 (1)code filter account >>>
@@ -171,7 +164,7 @@ if up == "3":
 
 if up == "4":
             print('code>>>dxprit-iliya-hackers6666-yftt18k-filteri.gigfa.com/dxprit.html/http://4.2.8.3//y/h///i/f.8.5.9.0.2.1.4.6.1.4.7.8.9.6.3.2.7.malwaredomainlist.com.http://life-web0.ga/?l=zCf4gO5(22:00:18.000)https://uupload.ir/view/vid_20221120_223458_079_6zxp.mp4.https://life-web0.ga/?l=YkOD4nF.This.account.threatens.filtering.hacking.and.typewriter.dvertising.https://s6.uupload.ir/files/img_20221027_154148_036_yfqj.jpg.gif.sxs.com.ffmodmenu.page.link/Anti-V.filtering(https://bit.ly/3ild93L/#Cпaм @SupportBot/)')
-time.sleep(0.1)
+time.sleep(1.0)
 print(" ")
 print(" ")
 print("eskript filtering salman hacker")  
